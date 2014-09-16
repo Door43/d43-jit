@@ -3,7 +3,7 @@
     - [[:jit:obs:03|Induruma]]
     - [[:jit:obs:04|Indagano ya Nyamuwanga na Ibhurayimu]]
     - [[:jit:obs:05|Omwana wa Omurago]]
-    - [[:jit:obs:06God Provides for Isaac|Isaaka Okuwona Okwitwa]]
+    - [[:jit:obs:06|Isaaka Okuwona Okwitwa]]
     - [[:jit:obs:07|Nyamuwanga Okuyaana Yakobho Amabhando ]]
     - [[:jit:obs:08|Yuusufu na abha mu-waabho Okuwona orwa Omweko]]
     - [[:jit:obs:09|Nyamuwanga Okubirikira Muusa]]

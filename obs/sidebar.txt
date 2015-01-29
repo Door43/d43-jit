@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[jit:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>jit:obs:stories}}
+  * [[jit:home|Door43 (jit)]]
 
+**Resources**
+
+  * [[jit:obs|Open Bible Stories (jit)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jit|d43-jit repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jit/archive/master.zip|d43-jit.zip]]
+
+**Recent Changes**
+{{changes>ns = jit}}
 
 **Latest Status**
 {{page>en:uwadmin:jit:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jit|Ethnologue data]]
+
+**Resources**
+
+  * [[jit:obs|Open Bible Stories (jit)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:jit:obs:status}}
